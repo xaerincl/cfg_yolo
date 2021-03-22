@@ -13,6 +13,8 @@ In order to create the .cfg file for your custom YOLOv4 model run:
 $ python cfg_create.py -i yolov4.cfg -c <number of classes to train> 
 ```
 
+this will create a file named yolov4_custom.cfg in the same path as yolov4.cfg.
+
 
 Example 2:
 
