@@ -2,9 +2,18 @@
 Script to create your own .cfg to train a Darknet YOLO model
 
 
+# How to use
 
+
+In order to create the .cfg file for your custom YOLOv4 model run:
 ```
-pip install -r requirements.txt
+$ python cfg_create.py -i yolov4.cfg -c <number of classes to train> 
 ```
-or simply
+
+
+Example 2:
+
+If you want to train a tiny-yolov3 to detect 6 different classes you can run:
+```
+$ python cfg_create.py -i yolov3-tiny.cfg -c 6
 ```
