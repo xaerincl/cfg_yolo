@@ -16,7 +16,10 @@ $ python cfg_create.py -i yolov4.cfg -c <number of classes to train>
 this will create a file named yolov4_custom.cfg in the same path as yolov4.cfg.
 
 
+
 Example 2:
+
+
 
 If you want to train a tiny-yolov3 to detect 6 different classes you can run:
 ```
