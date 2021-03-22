@@ -40,6 +40,6 @@ Arguments
 
 only use -no_flip if you train the model to distinguish Left and Right objects as separate classes (left/right hand, left/right-turn on road signs, ...).
 
-If you are in doubt about any parameter value you should check: https://github.com/AlexeyAB/darknet
+If you are in doubt about any parameter value you should check ![AlexeyAB darknet repo](https://github.com/AlexeyAB/darknet)
 
-![tutorial_1](https://github.com/AlexeyAB/darknet)
+![AlexeyAB darknet repo](https://github.com/AlexeyAB/darknet)
