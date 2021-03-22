@@ -32,7 +32,7 @@ Arguments
 | `"-input"`  or  `"-i"`       |                         | `"path to the .cfg"`         |      
 | `"-classes"`  or  `"-c"`     |                         | `"How many classes to detect"`|      
 | `"-num_images"`  or  `"-n"`  |   6000                  | `"OPTIONAL: Number of training images "`|     
-| `"--long"`                   | `"long"`                | `"long"`                     |    
-| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"-width"`  or  `"-wi"`  |   416                  | `"OPTIONAL: network size- width "`|     
+| `"-height"`  or  `"-he"`  |   416                  | `"OPTIONAL: network size- height "`|     
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
