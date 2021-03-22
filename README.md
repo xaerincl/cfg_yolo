@@ -27,7 +27,7 @@ Arguments
 
 
 
-| argument name                | default ``     |    Description               |           
+| argument name                | default      |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
 | `"-input"`  or  `"-i"`       |                         | `"path to the .cfg"`         |      
 | `"-classes"`  or  `"-c"`     |                         | `"How many classes to detect"`|      
