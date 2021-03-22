@@ -29,7 +29,7 @@ Arguments
 
 | argument name                | default `dest_name`     |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
-| `"--long"`                   | `"long"`                | `"long"`                     |      
+| `"-input"`    `"-input"`                 | `"long"`                | `"long"`                     |      
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
