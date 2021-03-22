@@ -34,5 +34,8 @@ Arguments
 | `"-num_images"`  or  `"-n"`  |   6000                  | `"OPTIONAL: Number of training images "`|     
 | `"-width"`  or  `"-wi"`  |   416                  | `"OPTIONAL: network size- width "`|     
 | `"-height"`  or  `"-he"`  |   416                  | `"OPTIONAL: network size- height "`|     
-| `"--long"`                   | `"long"`                | `"long"`                     |    
-| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"-batches"`  or  `"-b"`  |   64                  | `"OPTIONAL: batch size during train  "`|  
+| `"-subdivisions"`  or  `"-sub"`  |   32                  | `"OPTIONAL: subdivisions during train  "`| 
+| `"-no_flip"`    |   True                  | `"OPTIONAL: use -no_flip to set flip=0 "`|   
+| `"-no_random"`    |   True                  | `"OPTIONAL: use -no_random to set random=0 "`|   
+
