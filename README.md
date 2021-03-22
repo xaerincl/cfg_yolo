@@ -29,7 +29,7 @@ Arguments
 
 | argument name                | default `dest_name`     |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
-| `"-input"`  or  `"-i"`                 | `"long"`                | `"long"`                     |      
+| `"-input"`  or  `"-i"`                 |               | `"path to the .cfg"`                     |      
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
