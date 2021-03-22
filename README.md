@@ -42,4 +42,4 @@ only use -no_flip if you train the model to distinguish Left and Right objects a
 
 If you are in doubt about any parameter value you should check: https://github.com/AlexeyAB/darknet
 
-![tutorial_1](/https://github.com/AlexeyAB/darknet)
+![tutorial_1](https://github.com/AlexeyAB/darknet)
