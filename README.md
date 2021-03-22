@@ -22,39 +22,17 @@ $ python cfg_create.py -i yolov3-tiny.cfg -c 6
 ```
 
 
-Usage
-=====
-
-::
-
-    usage: argdown [-h] [-] [--license] [--header HEADER]
-                   [--usage-header USAGE_HEADER] [--ref-header REF_HEADER]
-                   [--args-header ARGS_HEADER] [-s] [-r] [-e HIERARCHY] [-d] [-t]
-                   [--header-depth HEADER_DEPTH] [--encoding ENCODING]
-                   [-f FUNCTION] [-v]
-                   [src_file [src_file ...]]
-    
-
 Arguments
 =========
-Quick reference table
----------------------
-+------+-------------------+-------------------------+---------------------------+
-|Short |Long               |Default                  |Description                |
-+------+-------------------+-------------------------+---------------------------+
-|``-h``|``--help``         |                         |Show help                  |
-+------+-------------------+-------------------------+---------------------------+
-|``-`` |                   |                         |Read from STDIN            |
-+------+-------------------+-------------------------+---------------------------+
-|      |``--license``      |                         |Print license              |
-+------+-------------------+-------------------------+---------------------------+
-
 
 
 
 | argument name                | default `dest_name`     |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
-| `"--long"`                   | `"long"`                | 
-| `"--long", "-s"`             | `"long"`                |
-| `"-s", "--long1", "--long2"` | `"long1"`               |
-| `"-s", "-x"`                 | `"s"`                   |
+| `"--long"`                   | `"long"`                | `"long"`                     |      
+| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"--long"`                   | `"long"`                | `"long"`                     |    
