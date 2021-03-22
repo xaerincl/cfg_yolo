@@ -37,5 +37,9 @@ Arguments
 | `"-batches"`  or  `"-b"`  |   64                  | `"OPTIONAL: batch size during train  "`|  
 | `"-subdivisions"`  or  `"-sub"`  |   32                  | `"OPTIONAL: subdivisions during train  "`| 
 | `"-no_flip"`    |   True                  | `"OPTIONAL: use -no_flip to set flip=0 "`|   
-| `"-no_random"`    |   True                  | `"OPTIONAL: use -no_random to set random=0 "`|   
 
+only use -no_flip if you train the model to distinguish Left and Right objects as separate classes (left/right hand, left/right-turn on road signs, ...).
+
+If you are in doubt about any parameter value you should check: https://github.com/AlexeyAB/darknet
+
+![tutorial_1](/https://github.com/AlexeyAB/darknet)
