@@ -29,9 +29,9 @@ Arguments
 
 | argument name                | default ``     |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
-| `"-input"`  or  `"-i"`                 |               | `"path to the .cfg"`         |      
+| `"-input"`  or  `"-i"`       |                         | `"path to the .cfg"`         |      
 | `"-classes"`  or  `"-c"`     |                         | `"How many classes to detect"`|      
-| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"-num_images"`  or  `"-n"`  |   6000                  | `"OPTIONAL: Number of training images "`|     
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
