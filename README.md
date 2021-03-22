@@ -27,10 +27,10 @@ Arguments
 
 
 
-| argument name                | default `dest_name`     |    Description               |           
+| argument name                | default ``     |    Description               |           
 |:-----------------------------|:------------------------|:-----------------------------|
-| `"-input"`  or  `"-i"`                 |               | `"path to the .cfg"`                     |      
-| `"--long"`                   | `"long"`                | `"long"`                     |    
+| `"-input"`  or  `"-i"`                 |               | `"path to the .cfg"`         |      
+| `"-classes"`  or  `"-c"`     |                         | `"How many classes to detect"`|      
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
 | `"--long"`                   | `"long"`                | `"long"`                     |    
