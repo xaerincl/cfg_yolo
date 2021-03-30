@@ -5,7 +5,7 @@ Script to create your own .cfg to train a Darknet YOLO model
 
 # How to use
 
-First clone the repo or download it by clicking here:  ![click](https://github.com/xaerincl/cfg_yolo/archive/refs/heads/main.zip)
+First clone the repo or download it by clicking here:  [click](https://github.com/xaerincl/cfg_yolo/archive/refs/heads/main.zip)
 
 
 In order to create the .cfg file for your custom YOLOv4 model run:
@@ -45,5 +45,5 @@ Arguments
 
 only use -no_flip if you train the model to distinguish Left and Right objects as separate classes (left/right hand, left/right-turn on road signs, ...).
 
-If you are in doubt about any parameter value you should check ![AlexeyAB darknet repo](https://github.com/AlexeyAB/darknet)
+If you are in doubt about any parameter value you should check [AlexeyAB darknet repo](https://github.com/AlexeyAB/darknet)
 
